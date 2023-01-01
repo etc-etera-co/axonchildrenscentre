@@ -26,7 +26,7 @@ body {
   font-size: 1.6rem;
 }
 .display-5 {
-  font-family: 'GTWalsheimPro-Bold';
+  font-family: 'GTWalsheimPro-Regular';
   font-size: 1.5rem;
   font-display: swap;
 }
@@ -700,7 +700,6 @@ section.lazy-placeholder:after {
   color: #ffffff;
   text-align: left;
 }
-.cid-rTdkUGBKci .mbr-text,
 .cid-rTdkUGBKci .mbr-section-btn a {
   color: #ffffff;
   text-align: left;
@@ -725,7 +724,6 @@ section.lazy-placeholder:after {
 .cid-rTdoFUfrSq .section-text {
   padding: 2rem 0;
   color: #ffffff;
-  font-family: 'GTWalsheimPro-Bold';
 }
 .cid-rTdoFUfrSq .inner-container {
   margin: 0 auto;
@@ -742,7 +740,6 @@ section.lazy-placeholder:after {
 }
 .cid-rTdp4tEBIc .mbr-section-subtitle {
   color: #767676;
-  font-family: 'GTWalsheimPro-Bold';
 }
 .cid-rTdp4tEBIc H2 {
   color: #8fd3d5;
