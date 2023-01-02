@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'GTWalsheimPro-Bold';
+   font-display: swap;
+   src: url('GTWalsheimPro-Bold/font.ttf');
+}
+@font-face {
+   font-family: 'GTWalsheimPro-Regular';
+   font-display: swap;
+   src: url('GTWalsheimPro-Regular/font.ttf');
+}
